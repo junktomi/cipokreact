@@ -1,0 +1,37 @@
+{
+    "cipok":
+    [
+        {
+            "marka": "Nike",
+            "ar": "29999",
+            "keszleten": true,
+            "megjelenes": "2025-01-01"
+
+        },
+        {
+            "marka": "Adidas",
+            "ar":"32000",
+            "keszleten": false,
+            "megjelenes": "2022-09-09"
+        },
+        {
+            "marka": "Newbalance",
+            "ar":"45000",
+            "keszleten": true,
+            "megjelenes": "2026-11-11"
+        },
+        {
+            "marka": "Puma",
+            "ar":"21999",
+            "keszleten": true,
+            "megjelenes": "2023-03-14"
+        },
+        {
+            "marka": "DRK",
+            "ar":"25789",
+            "keszleten": true,
+            "megjelenes": "2026-02-27"
+        }
+
+    ]
+}
