@@ -1,37 +1,40 @@
 {
-    "cipok":
-    [
-        {
-            "marka": "Nike",
-            "ar": "29999",
-            "keszleten": true,
-            "megjelenes": "2025-01-01"
-
-        },
-        {
-            "marka": "Adidas",
-            "ar":"32000",
-            "keszleten": false,
-            "megjelenes": "2022-09-09"
-        },
-        {
-            "marka": "Newbalance",
-            "ar":"45000",
-            "keszleten": true,
-            "megjelenes": "2026-11-11"
-        },
-        {
-            "marka": "Puma",
-            "ar":"21999",
-            "keszleten": true,
-            "megjelenes": "2023-03-14"
-        },
-        {
-            "marka": "DRK",
-            "ar":"25789",
-            "keszleten": true,
-            "megjelenes": "2026-02-27"
-        }
-
-    ]
+  "cipok": [
+    {
+      "marka": "Nike",
+      "ar": "29999",
+      "keszleten": true,
+      "megjelenes": "2025-01-01",
+      "id": "kOQZmNbeMC0"
+    },
+    {
+      "marka": "Adidas",
+      "ar": "32000",
+      "keszleten": false,
+      "megjelenes": "2022-09-09",
+      "id": "CTpwUpUJW9g"
+    },
+    {
+      "marka": "Newbalance",
+      "ar": "45000",
+      "keszleten": true,
+      "megjelenes": "2026-11-11",
+      "id": "6HDcfqC_Pv0"
+    },
+    {
+      "marka": "Puma",
+      "ar": "21999",
+      "keszleten": true,
+      "megjelenes": "2023-03-14",
+      "id": "RWerO5VYh8k"
+    },
+    {
+      "marka": "DRK",
+      "ar": "25789",
+      "keszleten": true,
+      "megjelenes": "2026-02-27",
+      "id": "6ayvm0YCUE4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
